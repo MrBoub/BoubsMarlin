@@ -9,3 +9,4 @@ This is a version of marlin configured for Boub's 3D printer.
 4. Accurately set Hybrid Threshhold
 5. Linear advance
 6. New Marlin 2.0 update
+7. Speed up Z movement, bed leveling

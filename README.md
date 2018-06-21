@@ -2,7 +2,7 @@
 
 This is a version of marlin configured for Boub's 3D printer.
 
-## What to do:
+## ToDo List:
 1. Sensorless homing
 2. Fix thermistor offset
 3. Reset bed sizes
@@ -10,3 +10,9 @@ This is a version of marlin configured for Boub's 3D printer.
 5. Linear advance
 6. New Marlin 2.0 update
 7. Speed up Z movement, bed leveling
+
+## ToPrint/Model List:
+1. LCD Screen
+2. Side Covers Printer
+3. Filament Holder/Guider
+4. Drone Arms :')

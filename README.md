@@ -2,17 +2,19 @@
 
 This is a version of marlin configured for Boub's 3D printer.
 
+## New In Boub'sMarlin 2.1:
+1. Updated to newest marlin 2.0 
+2. Fixed bed size + Bed Leveling
+3. Sped up bed leveling
+4. Set hybrid threshhold
+
 ## ToDo List:
 1. Sensorless homing
 2. Fix thermistor offset
-3. Reset bed sizes
-4. Accurately set Hybrid Threshhold
 5. Linear advance
-6. New Marlin 2.0 update
-7. Speed up Z movement, bed leveling
 
 ## ToPrint/Model List:
 1. LCD Screen
-2. Side Covers Printer
+2. Side Covers Printer (1/2 done)
 3. Filament Holder/Guider
 4. Drone Arms :')

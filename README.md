@@ -9,12 +9,19 @@ This is a version of marlin configured for Boub's 3D printer.
 4. Set hybrid threshhold
 
 ## ToDo List:
-1. Sensorless homing
-2. Fix thermistor offset
-5. Linear advance
+1. Linear advance
+2. Correct bed leveling new bed
+3. Re enable PID Autotune bed
 
 ## ToPrint/Model List:
 1. LCD Screen
-2. Side Covers Printer (1/2 done)
-3. Filament Holder/Guider
-4. Drone Arms :')
+2. Drone Arms :')
+
+## 7/5/2018 Changes:
+1. Changed max height to 185mm
+2. Swapped hotend to original V6
+3. Changed thermistor settings
+
+## 7/15/2018
+1. New bed
+2. Some minor changes

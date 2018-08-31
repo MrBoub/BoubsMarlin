@@ -9,13 +9,10 @@ This is a version of marlin configured for Boub's 3D printer.
 4. Set hybrid threshhold
 
 ## ToDo List:
-1. Linear advance
-2. Correct bed leveling new bed
-3. Re enable PID Autotune bed
+
 
 ## ToPrint/Model List:
-1. LCD Screen
-2. Drone Arms :')
+
 
 ## 7/5/2018 Changes:
 1. Changed max height to 185mm
@@ -25,3 +22,7 @@ This is a version of marlin configured for Boub's 3D printer.
 ## 7/15/2018
 1. New bed
 2. Some minor changes
+
+## 8/31/2018
+1. Remade Boublin 2.3
+2. New print surface (!!!)

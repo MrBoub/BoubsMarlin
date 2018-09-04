@@ -586,7 +586,7 @@
  *
  * Enable this option if endstops falsely trigger due to noise.
  * NOTE: Enabling this feature means adds an error of +/-0.2mm, so homing
- * will end up at a slightly different position on each G28. This will also
+ * will end up at a slightly different position on each . This will also
  * reduce accuracy of some bed probes.
  * For mechanical switches, the better approach to reduce noise is to install
  * a 100 nanofarads ceramic capacitor in parallel with the switch, making it
@@ -882,7 +882,7 @@
 
 //#define UNKNOWN_Z_NO_RAISE // Don't raise Z (lower the bed) if Z is "unknown." For beds that fall when Z is powered off.
 
-//#define Z_HOMING_HEIGHT 4  // (in mm) Minimal z height before homing (G28) for Z clearance above the bed, clamps, ...
+//#define Z_HOMING_HEIGHT 4  // (in mm) Minimal z height before homing () for Z clearance above the bed, clamps, ...
                              // Be sure you have this distance over your Z_MAX_POS in case.
 
 // Direction of endstops when homing; 1=MAX, -1=MIN
